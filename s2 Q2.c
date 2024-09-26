@@ -3,7 +3,7 @@ int main(){
 	int age;
 	char citizenship;
 	printf("Enter your citizenship(Y for yes, N for no):");
-    scanf("%c",&citizenship);
+        scanf("%c",&citizenship);
 	printf("Enter your age:");
 	scanf("%d",&age);
 	
