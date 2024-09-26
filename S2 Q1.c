@@ -5,9 +5,9 @@ int main(){
 	printf("enter number:");
 	scanf("%d",&num);
 	
-	if(num<0)
+	if(num<=0)
 	{
-		printf("the number you enter is negative");
+		printf("the number you enter is negative or Zero");
 		
 	}
 	else if(num>0)
@@ -32,7 +32,7 @@ int main(){
 	}
 	else
 	{
-		printf("Invalid number");
+		printf("Invalid input");
 	}
 	return 0;
 }
