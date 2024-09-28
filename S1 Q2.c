@@ -16,7 +16,7 @@ int main(){
 		{
 			printf("This number is positive and also even");
 		}
-	    else
+	        else
 		{
 			printf("This number is positive but odd");
 		}
