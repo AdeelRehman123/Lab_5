@@ -12,8 +12,8 @@ int main(){
 	{
 		printf("you are eligible for vote");
 	}
-    else if(age>=25 && citizenship=='N')
-    {
+        else if(age>=25 && citizenship=='N')
+        {
     	printf("you are eligible for vote");
 	}
 	else
